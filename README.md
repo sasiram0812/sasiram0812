@@ -84,11 +84,7 @@ A React.js application to compute GPA and CGPA with dynamic semester and subject
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasiram0812&show_icons=true&theme=default&hide_border=true" height="165" />
-</p>
 
 ---
 
@@ -102,3 +98,10 @@ A React.js application to compute GPA and CGPA with dynamic semester and subject
 </p>
 
 <p align="center"><i>Thanks for visiting my profile! 🚀</i></p>
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sasiram0812/sasiram0812/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+⚙️ This snake animation needs a one-time GitHub Action setup — see the steps below.
