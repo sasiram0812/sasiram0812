@@ -1,5 +1,6 @@
 
 # Hi there, I'm Sasiram V 👋
+## 📫 Reach me at **v.sasirammanoj@gmail.com**
 
 ### 🚀 Final Year B.Tech IT Student | Aspiring Full Stack Developer | DSA Enthusiast
 
@@ -7,7 +8,6 @@
   <a href="https://www.linkedin.com/in/sasiram-v-6134982a3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://sasiram-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" /></a>
   <a href="https://leetcode.com/u/sasiram/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-  **v.sasirammanoj@gmail.com**
 </p>
 
 <p align="center">
