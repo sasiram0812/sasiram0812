@@ -1,74 +1,106 @@
-<h1 align="center">Hi 👋, I'm Sasiram V</h1>
-<h3 align="center">Aspiring Full Stack Developer | DSA Enthusiast | RPA & Automation</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hi%20There,%20I'm%20Sasiram%20V%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20RPA%20%26%20Automation&descAlignY=55&descSize=16" />
 
 <p align="center">
-  Pre-Final Year IT student at Sri Krishna College of Technology, Coimbatore | Building full-stack apps and automation solutions
+  <a href="https://www.linkedin.com/in/sasiram-v-6134982a3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sasiram-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/sasiram/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:v.sasirammanoj@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Pre-Final+Year+IT+Student;Full+Stack+Developer+%7C+React+%2B+Node.js;DSA+%26+Problem+Solving+Enthusiast;UiPath+RPA+%26+Automation+Builder;Always+Learning%2C+Always+Building" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sasiram0812&style=flat-square&color=6366f1" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/sasiram0812?style=flat-square&color=06b6d4&label=Followers" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Pursuing B.Tech in Information Technology (Sri Krishna College of Technology) — Graduating April 2027
-- 💻 Strong foundations in **Java** and **Data Structures & Algorithms**
-- 🌐 Experienced in building full-stack web apps with **React** and **Node.js**
-- 🤖 Hands-on with **UiPath RPA** for automation solutions
-- 📈 Solved 100+ DSA problems on LeetCode
-- 🏆 Participated in **FedEx SMART Hackathon** at IIT Madras
-- 🔥 550+ day Duolingo streak — consistency is my thing
+```yaml
+name: Sasiram V
+role: Aspiring Software Engineer
+education: B.Tech Information Technology @ Sri Krishna College of Technology (2027)
+focus: Full-Stack Development, DSA, RPA Automation
+currently_learning: Advanced Java, System Design
+fun_fact: 550+ day Duolingo streak 🔥
+```
+
+- 🎓 Pre-final year IT student, building real-world full-stack projects
+- 💻 Strong in **Java** and **Data Structures & Algorithms** — 100+ problems solved on LeetCode
+- 🌐 Build full-stack apps using **React** + **Node.js**, with **Firebase**/**MongoDB** backends
+- 🤖 Automate workflows with **UiPath RPA**
+- 🏆 Participated in the **FedEx SMART Hackathon** at IIT Madras
 - 📫 Reach me at **v.sasirammanoj@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Backend & Database**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Tools & Automation**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![UiPath](https://img.shields.io/badge/-UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,mongodb,firebase,mysql,git,github,vscode" />
+</p>
 
 ---
 
 ### 🌟 Featured Projects
 
-**[Invoice Processing Automation Using UiPath](https://github.com/sasiram0812)**
-Full-stack web app automating invoice processing with UiPath RPA — extracts invoice data from PDFs with ~90%+ accuracy, stores it in Firebase Firestore, and shows it on a real-time dashboard. Cut manual processing time by ~50%.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧾 Invoice Processing Automation**
+Full-stack app automating invoice processing with UiPath RPA — extracts data from PDFs at ~90%+ accuracy, stores it in Firebase, and cuts manual processing time by ~50%.
+
 `React` `Node.js` `UiPath` `Firebase`
 
-**[Real-Time Chat Application](https://github.com/sasiram0812/ChatApp)**
-Scalable real-time chat app with authentication and full CRUD for messages, built on a MongoDB backend handling 100+ real-time messages efficiently with low-latency updates via Socket.io.
-`React` `Node.js` `Socket.io` `MongoDB` `Firebase`
+</td>
+<td width="50%" valign="top">
+
+**💬 Real-Time Chat Application**
+Scalable real-time chat app with auth and full message CRUD, built on MongoDB and Socket.io, handling 100+ real-time messages with low latency.
+
+`React` `Node.js` `Socket.io` `MongoDB`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasiram0812&show_icons=true&theme=default" alt="Sasiram's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasiram0812" alt="Sasiram's Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sasiram0812&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasiram0812&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasiram0812&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sasiram0812/sasiram0812/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> ⚙️ This snake animation needs a one-time GitHub Action setup — see the steps below.
 
 ---
 
 ### 🔗 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://sasiram-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasiram-v-6134982a3/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sasiram/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:v.sasirammanoj@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sasiram-v-6134982a3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sasiram-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/sasiram/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:v.sasirammanoj@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" />
