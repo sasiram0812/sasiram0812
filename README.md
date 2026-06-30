@@ -94,17 +94,6 @@ A React.js application to compute GPA and CGPA with dynamic semester and subject
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasiram0812&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sasiram0812/sasiram0812/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-⚙️ This snake animation needs a one-time GitHub Action setup — see the steps below.
-
-
-
-
 🔗 Connect with Me
 
 <p align="center">
@@ -113,10 +102,12 @@ A React.js application to compute GPA and CGPA with dynamic semester and subject
   <a href="https://leetcode.com/u/sasiram/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:v.sasirammanoj@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+<center><p align="center"><i>Thanks for visiting my profile! 🚀</i></p></center>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" />
 
 
 
-<p align="center"><i>Thanks for visiting my profile! 🚀</i></p>
+
 
 
