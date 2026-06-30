@@ -84,20 +84,16 @@ A React.js application to compute GPA and CGPA with dynamic semester and subject
 
 ---
 
-
-
----
-
-## 🔗 Connect with Me
+📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sasiram-v-6134982a3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://sasiram-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/sasiram/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:v.sasirammanoj@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sasiram0812&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasiram0812&theme=tokyonight&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasiram0812&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="center"><i>Thanks for visiting my profile! 🚀</i></p>
 🐍 Contribution Snake
 
 <p align="center">
@@ -105,3 +101,22 @@ A React.js application to compute GPA and CGPA with dynamic semester and subject
 </p>
 
 ⚙️ This snake animation needs a one-time GitHub Action setup — see the steps below.
+
+
+
+
+🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sasiram-v-6134982a3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sasiram-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/sasiram/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:v.sasirammanoj@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" />
+
+
+
+<p align="center"><i>Thanks for visiting my profile! 🚀</i></p>
+
+
